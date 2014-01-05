@@ -136,6 +136,14 @@ Amon2::Plugin::Web::Woothee provides some methods for detecting User Agent on co
 
 =head1 METHODS
 
+=over
+
+=item init
+
+=back
+
+=head1 ADDITIONAL METHODS
+
 You can call below methods on context.
 
 NOTE that these methods are enabled after BEFORE_DISPATCH.
