@@ -13,10 +13,13 @@ my $builder = Module::Build->new(
     },
     build_requires      => {
         'Test::More' => 0.88,
+        'Test::Requires' => 0.06,
+        'Test::WWW::Mechanize::PSGI' => 0,
     },
     requires => {
         'perl' => '5.008001',
-        'Carp' => 0,
+        'Amon2' => 0,
+        'Woothee' => 0,
     },
     add_to_cleanup      => [ 'Amon2-Plugin-Web-Woothee-*' ],
     meta_merge     => {
