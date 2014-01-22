@@ -118,7 +118,7 @@ __END__
 
 =head1 NAME
 
-Amon2::Plugin::Web::Woothee - The Amon2 Plugin for treating the User Agent by Woothee
+Amon2::Plugin::Web::Woothee - The Amon2 Plugin for detecting the User Agent by Woothee
 
 
 =head1 SYNOPSIS
