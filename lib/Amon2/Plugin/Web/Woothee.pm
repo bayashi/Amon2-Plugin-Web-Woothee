@@ -2,7 +2,7 @@ package Amon2::Plugin::Web::Woothee;
 use strict;
 use warnings;
 
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 
 sub init {
     my ($class, $c, $conf) = @_;
