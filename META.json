@@ -1,5 +1,5 @@
 {
-   "abstract" : "The Amon2 Plugin for treating the User Agent by Woothee",
+   "abstract" : "The Amon2 Plugin for detecting the User Agent by Woothee",
    "author" : [
       "Dai Okabayashi <bayashi@cpan.org>"
    ],
@@ -37,7 +37,7 @@
    "provides" : {
       "Amon2::Plugin::Web::Woothee" : {
          "file" : "lib/Amon2/Plugin/Web/Woothee.pm",
-         "version" : "0.01"
+         "version" : "0.02"
       },
       "Amon2::Plugin::Web::Woothee::Object" : {
          "file" : "lib/Amon2/Plugin/Web/Woothee.pm"
@@ -55,5 +55,5 @@
          "url" : "http://github.com/bayashi/Amon2-Plugin-Web-Woothee"
       }
    },
-   "version" : "0.01"
+   "version" : "0.02"
 }
